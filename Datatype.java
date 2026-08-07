@@ -1,4 +1,7 @@
 public class Datatype {
+    /**
+     * @param a
+     */
     public static void main(String a[]){
 
 
@@ -12,5 +15,16 @@ public class Datatype {
       System.out.println(result2);
       System.out.println(result3);
       System.out.println(result4);
+     //Integer 
+     //int= 4 byte (2^31-1) can store in memory,byte =1 byte ,long=8 byte ,short=2 byte
+     //Float =4 byte and Double is 8 byte by default we are double
+     float num =5.6f; // we have to explicitly mention f becuase it is not default value 
+     System.out.println(num);
+     //char is 2 byte of memory 
+     char name ='a';
+     System.out.println(name);
+
+     boolean x =true;
+     System.out.println(x);
     }
 }
