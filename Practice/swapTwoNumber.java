@@ -1,3 +1,4 @@
+package Practice;
 public class swapTwoNumber {
     public static void main(String[] args) {
         int a =10;
