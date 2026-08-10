@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java Full Course_87d606ae"
+        },
+        {
+            "type": "java",
+            "name": "Whileloop",
+            "request": "launch",
+            "mainClass": "Whileloop",
+            "projectName": "Java Full Course_87d606ae"
+        },
+        {
+            "type": "java",
+            "name": "Whileloops",
+            "request": "launch",
+            "mainClass": "Whileloops",
+            "projectName": "Java Full Course_87d606ae"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
