@@ -10,6 +10,9 @@ public class Loops {
         //if condition is false then it will exit the loop
         int i;
         for( i=0;i<=5;i++){
+            for (int j=0;j<=3;j++){
+                System.out.println("Hello: " + j);
+            }
             System.out.println("Value of i: " + i);
         }
     }

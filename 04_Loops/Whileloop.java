@@ -1,6 +1,9 @@
 // Outer loop increments → inner loop starts again from its initialized value → inner loop completes → outer loop increments again.
-
-// That's exactly how this  nested while loop works.
+//Keep reading while there is data available.
+//  Reading files
+//  Processing incoming data
+//  Reading network data
+//  Processing records from a database
 // Outer loop: 1 iteration
 //     ↓
 //     Inner loop: FULL cycle
